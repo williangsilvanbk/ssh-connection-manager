@@ -1,0 +1,23 @@
+# Arquivos de configuração local
+.config/
+servers.json
+servers.json.bak
+servers.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
