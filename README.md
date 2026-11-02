@@ -1,4 +1,6 @@
 # SSH Menu
+🌐 [Read this document in English](README.en.md)
+
 
 Gerenciador local de conexões SSH para **macOS** e **Linux (Ubuntu Desktop)**.
 
